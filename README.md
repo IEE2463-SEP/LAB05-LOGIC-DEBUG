@@ -5,9 +5,9 @@ En este laboratorio aprenderemos a debugear nuestros diseños en Vivado.
 
 2. Los documentos asociados a la ejecución de este laboratorio son:
 
-* [Product Guide ILA]()
-* [Product GUide VIO]()
-* [LAB05_Logic_Debug.pdf](): Contine la guía de desarrollo asociada a este laboratorio.
+* [Product Guide ILA](https://github.com/IEE2463-SEP/LAB05-LOGIC-DEBUG/blob/main/ILA_v6.2.pdf)
+* [Product GUide VIO](https://github.com/IEE2463-SEP/LAB05-LOGIC-DEBUG/blob/main/VIO_v3.0.pdf)
+* [LAB05_Logic_Debug.pdf](https://github.com/IEE2463-SEP/LAB05-LOGIC-DEBUG/blob/main/LAB05_Debug_ILA_VIO.pdf): Contine la guía de desarrollo asociada a este laboratorio.
 * [LAB05_Logic_Debug.rar](): Contine el projecto en vivado desarrollado en el laboratorio
 
  
@@ -16,6 +16,6 @@ En este laboratorio aprenderemos a debugear nuestros diseños en Vivado.
 * Ver y ejecutar el video del [laboratorio 05]().
 * Contenidos de la Ayudantia 04.
 * [Lectura05]() IEE2463
-* Contenidos teóricos asociados a los IP Cores [Product Guide ILA]() y  [Product GUide VIO]().
+* Contenidos teóricos asociados a los IP Cores [Product Guide ILA](https://github.com/IEE2463-SEP/LAB05-LOGIC-DEBUG/blob/main/ILA_v6.2.pdf) y  [Product GUide VIO](https://github.com/IEE2463-SEP/LAB05-LOGIC-DEBUG/blob/main/LAB05_Debug_ILA_VIO.pdf).
 *  
 4.- [Actividad Práctica]() desarrollada en el del Laboratorio 
