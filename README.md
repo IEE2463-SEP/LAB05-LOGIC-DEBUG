@@ -16,6 +16,6 @@ En este laboratorio aprenderemos a debugear nuestros diseños en Vivado.
 * Ver y ejecutar el video del [laboratorio 05](https://youtu.be/NreXyt1TFsE).
 * Contenidos de la [Ayudantia 04](https://studio.youtube.com/video/RMV4KJyFvVw/edit)
 * [Lectura05](https://github.com/IEE2463-SEP/Lecturas) IEE2463 y el archivo rar publicado con todos los detalles de los IP Cores asociados a la lectura. 
-* Contenidos teóricos asociados a los IP Cores [Product Guide ILA](https://github.com/IEE2463-SEP/LAB05-LOGIC-DEBUG/blob/main/ILA_v6.2.pdf) y  [Product GUide VIO](https://github.com/IEE2463-SEP/LAB05-LOGIC-DEBUG/blob/main/LAB05_Debug_ILA_VIO.pdf).
+* Contenidos teóricos asociados a los IP Cores [Product Guide ILA](https://github.com/IEE2463-SEP/LAB05-LOGIC-DEBUG/blob/main/ILA_v6.2.pdf) y  [Product GUide VIO](https://github.com/IEE2463-SEP/LAB05-LOGIC-DEBUG/blob/main/VIO_v3.0.pdf).
   
 4.- [Actividad Práctica](https://github.com/IEE2463-SEP/LAB05-LOGIC-DEBUG/blob/main/LAB05_ILA_VIO.pptx) desarrollada en el del Laboratorio 
